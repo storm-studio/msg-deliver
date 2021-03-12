@@ -11,7 +11,7 @@ import java.util.Date;
  * 消息投递状态更新消息实体
  * topic: message-deliver-state-update
  *
- * @author liy
+ * @author liy-cn
  * @date 2020-12-09 16:31
  */
 @Data
